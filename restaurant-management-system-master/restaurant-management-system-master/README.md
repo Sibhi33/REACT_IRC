@@ -43,9 +43,11 @@ In practice, building a restaurant management system using React.js would typica
 
 Overall, a React.js-based restaurant management system can enhance the efficiency and customer experience of a restaurant by automating various tasks, improving order accuracy, and providing valuable insights for decision-making.
 
+<html>
 <img src="https://github.com/Sibhi33/REACT_IRC/blob/main/restaurant-management-system-master/images/Screenshot%202023-12-13%20152331.png">
 <img src="https://github.com/Sibhi33/REACT_IRC/blob/main/restaurant-management-system-master/images/Screenshot%202023-12-13%20152401.png">
 <img src="https://github.com/Sibhi33/REACT_IRC/blob/main/restaurant-management-system-master/images/Screenshot%202023-12-13%20152413.png">
 <img src="https://github.com/Sibhi33/REACT_IRC/blob/main/restaurant-management-system-master/images/Screenshot%202023-12-13%20152425.png">
 <img src="https://github.com/Sibhi33/REACT_IRC/blob/main/restaurant-management-system-master/images/Screenshot%202023-12-13%20152434.png">
 <img src="https://github.com/Sibhi33/REACT_IRC/blob/main/restaurant-management-system-master/images/Screenshot%202023-12-13%20152443.png">
+</html>
