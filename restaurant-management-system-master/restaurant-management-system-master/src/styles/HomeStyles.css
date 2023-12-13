@@ -1,0 +1,48 @@
+.contain-box{
+  position:relative;
+  display: flex;
+  background-color:white ;
+  background-image:url("https://wallpapers.com/wallpapers/cafe-bar-with-dessert-and-bottled-drinks-3xmxodva8iusqvfs.html")
+
+}
+.fork{
+  color:antiquewhite;
+  font-size:xx-large;
+}
+.ab{
+  font-weight: bolder;
+  font-family:cursive;
+  color:coral;
+}
+.foot{
+  width:100vw;
+}
+.contain-box .img{
+  padding-block: 60px
+}
+.img{
+  padding-left: 5px;
+  padding-right:7px;
+  height: max-content;
+}
+.ping{
+  color:white;
+}
+.img .details{
+  text-align:center ;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left:10px ;
+  font-size: large;
+  
+}
+.img .details{
+  border-style: groove;
+}
+.details{
+  background-color: black;
+  color: rgb(242, 255, 240);
+}
+.oo{
+  font-family:Arial, Helvetica, sans-serif;
+}
