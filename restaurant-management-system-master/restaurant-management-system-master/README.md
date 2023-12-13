@@ -42,3 +42,10 @@ Here's an overview of what a restaurant management system built with React.js mi
 In practice, building a restaurant management system using React.js would typically require a combination of technologies, including a backend server (often built with Node.js, Python, or Ruby on Rails) and a database (like PostgreSQL or MongoDB) to store and manage data. The frontend built with React.js would communicate with the backend through APIs to fetch and update information in real-time.
 
 Overall, a React.js-based restaurant management system can enhance the efficiency and customer experience of a restaurant by automating various tasks, improving order accuracy, and providing valuable insights for decision-making.
+
+<img src="https://github.com/Sibhi33/REACT_IRC/blob/main/restaurant-management-system-master/images/Screenshot%202023-12-13%20152331.png">
+<img src="https://github.com/Sibhi33/REACT_IRC/blob/main/restaurant-management-system-master/images/Screenshot%202023-12-13%20152401.png">
+<img src="https://github.com/Sibhi33/REACT_IRC/blob/main/restaurant-management-system-master/images/Screenshot%202023-12-13%20152413.png">
+<img src="https://github.com/Sibhi33/REACT_IRC/blob/main/restaurant-management-system-master/images/Screenshot%202023-12-13%20152425.png">
+<img src="https://github.com/Sibhi33/REACT_IRC/blob/main/restaurant-management-system-master/images/Screenshot%202023-12-13%20152434.png">
+<img src="https://github.com/Sibhi33/REACT_IRC/blob/main/restaurant-management-system-master/images/Screenshot%202023-12-13%20152443.png">
